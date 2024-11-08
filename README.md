@@ -10,7 +10,7 @@ Welcome to my corner of the web! I'm a dynamic problem solver and tech enthusias
 - **🌱 Currently Learning:** Advanced web development, containerization with Docker, and growing my hydroponics setup!
 - **💞️ Open to Collaborate On:** Cybersecurity projects, tech for social good, and innovative solutions that make an impact.
 - **📫 How to Reach Me:** [LinkedIn](https://www.linkedin.com/in/bryan-cruse-99b612143/) | [Email](mailto:Bryan@thecorneroftheweb.com)
-- **😄 Pronouns:** He/Him
+
 
 ---
 
