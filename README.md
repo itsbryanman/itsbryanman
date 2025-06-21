@@ -1,10 +1,10 @@
-# 👋 Hey, I’m Bryan!
+#  Hey, I’m Bryan
 
 Welcome to my corner of GitHub. By day, I’m an *earner*—paying the bills and doing what needs to be done. The moment the clock stops ticking for the boss, I’m all in on code, creativity, and relentless tinkering.
 
 ---
 
-## 🦸‍♂️ After-Hours Superpowers
+## After-Hours Superpowers
 
 - **Open-source homelab wizardry:**  
   If it can run in a rack (or a random Raspberry Pi jammed behind the router), I’m probably automating it.
@@ -17,7 +17,7 @@ Welcome to my corner of GitHub. By day, I’m an *earner*—paying the bills and
 
 ---
 
-## 🚩 Flagship Projects
+##  Flagship Projects
 
 1. [**SafeCornerOfTheWeb.com**](https://safecorneroftheweb.com)  
    A domestic-violence resource hub built for real-world impact, not brownie points.
@@ -30,7 +30,7 @@ Welcome to my corner of GitHub. By day, I’m an *earner*—paying the bills and
 
 ---
 
-## 🏅 GitHub Achievements & Badges
+##  GitHub Achievements & Badges
 
 <p align="center">
   <!-- Pull Shark -->
@@ -49,7 +49,7 @@ Welcome to my corner of GitHub. By day, I’m an *earner*—paying the bills and
 
 ---
 
-## 💻 Tech Stack & Tools
+##  Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
@@ -64,7 +64,7 @@ Welcome to my corner of GitHub. By day, I’m an *earner*—paying the bills and
 
 ---
 
-## 📈 GitHub Stats & Activity
+##  GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsbryanman&show_icons=true&theme=tokyonight" alt="Bryan's GitHub Stats"/>
@@ -76,7 +76,7 @@ Welcome to my corner of GitHub. By day, I’m an *earner*—paying the bills and
 
 ---
 
-## 🤝 Let’s Connect
+##  Let’s Connect annnnnd donate if i helped
 
 - ☕ [Ko-fi](https://ko-fi.com/itsbryandude)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/bryan-cruse-99b612143/)
