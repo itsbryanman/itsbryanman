@@ -1,34 +1,23 @@
 #  Hey, I’m Bryan
 
-Welcome to my corner of GitHub. By day, I’m an *earner*—paying the bills and doing what needs to be done. The moment the clock stops ticking for the boss, I’m all in on code, creativity, and relentless tinkering.
 
----
-
-## After-Hours Superpowers
 
 - **Open-source homelab wizardry:**  
   If it can run in a rack (or a random Raspberry Pi jammed behind the router), I’m probably automating it.
 
 - **Machine-learning & neural-network tinkering:**  
-  Always hunting for that “aha!” moment when the model finally behaves.
-
-- **Relentless innovation:**  
-  I break things just to rebuild them better.
+  
 
 ---
 
 ##  Flagship Projects
 
-1. [**SafeCornerOfTheWeb.com**](https://safecorneroftheweb.com)  
+ [**SafeCornerOfTheWeb.com**](https://safecorneroftheweb.com)  
    A domestic-violence resource hub built for real-world impact, not brownie points.
 
-2. **Homelab Automation Scripts**  
+ **Homelab Automation Scripts**  
    Glue code + shell sorcery that keeps my self-hosted stack purring (and wakes me up if it doesn’t).
 
-3. **Next-Gen Lossless Compression**  
-   Pushing 40-50:1 ratios with _____, _____________ ____ _________, and transformer decoders—no external codecs, no shortcuts.
-
----
 
 ##  GitHub Achievements & Badges
 
@@ -89,7 +78,7 @@ Welcome to my corner of GitHub. By day, I’m an *earner*—paying the bills and
   <!-- Zero-Day Red -->
   <img src="https://img.shields.io/badge/I%20push%20code%20like%20a%20zero--day%3A-fast%2C%20silent%2C%20irreversible.-ff003c?style=for-the-badge&labelColor=0d0d0d" alt="I push code like a zero-day: fast, silent, irreversible."/>
   <!-- Over-Clocked Lime -->
-  <img src="https://img.shields.io/badge/Powered%20by%20coffee%E2%80%94compiled%20in%20rage%2C%20shipping%20at%20--force-a6ff07?style=for-the-badge&labelColor=1f2428" alt="Powered by redbull—compiled in rage, shipping at --force"/>
+  <img src="https://img.shields.io/badge/Powered%20by%2redbull%E2%80%94compiled%20in%20rage%2C%20shipping%20at%20--force-a6ff07?style=for-the-badge&labelColor=1f2428" alt="Powered by redbull—compiled in rage, shipping at --force"/>
   <!-- Open Source Lover -->
   <img src="https://img.shields.io/badge/Open%20Source-Lover-brightgreen?style=for-the-badge"/>
   <!-- Night Owl -->
