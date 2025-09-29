@@ -78,7 +78,7 @@
   <!-- Zero-Day Red -->
   <img src="https://img.shields.io/badge/I%20push%20code%20like%20a%20zero--day%3A-fast%2C%20silent%2C%20irreversible.-ff003c?style=for-the-badge&labelColor=0d0d0d" alt="I push code like a zero-day: fast, silent, irreversible."/>
   <!-- Over-Clocked Lime -->
-  <img src="https://img.shields.io/badge/Powered%20by%2redbull%E2%80%94compiled%20in%20rage%2C%20shipping%20at%20--force-a6ff07?style=for-the-badge&labelColor=1f2428" alt="Powered by redbull—compiled in rage, shipping at --force"/>
+  
   <!-- Open Source Lover -->
   <img src="https://img.shields.io/badge/Open%20Source-Lover-brightgreen?style=for-the-badge"/>
   <!-- Night Owl -->
